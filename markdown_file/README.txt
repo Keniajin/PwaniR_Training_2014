@@ -1,0 +1,3 @@
+- confidence _intervals.RMD  -- the code for the presentation
+- confidence__intervals.pdf – the generated pdf
+- lesson2.confidence_interval.ppt – the power-point file
